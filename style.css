@@ -1,27 +1,27 @@
 *{
 
-    margin: 0;
+    box-sizing: border-box;
 }
 
-.container-fluid{
-    padding: 0;
-    height: 100vh;
-    width: 100vw;
+body{
+    
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
+
 
 .carousel-indicators .active{
 
    background-color: blueviolet;
-   transform: scale(1.2);
+   transform: scale(1.25);
 
 }
 
 #mainSlider .carousel-inner, #mainSlider .carousel-item {
-    
-    
-    height: 100vh;
-}
 
+    height: 100vh;
+    width: 100vw;
+}
 
 #mainSlider .carousel-caption h2{
 
