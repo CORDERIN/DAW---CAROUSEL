@@ -25,7 +25,8 @@ body{
 
 #mainSlider .carousel-caption h2{
 
-    margin-bottom: 10px;
-    font-size: 20px;
-
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #bd0071;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
